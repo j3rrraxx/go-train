@@ -1,5 +1,5 @@
 package gotrain
 
 func SayHello() string {
-	return "Greet from mod"
+	return "Greet from module"
 }
